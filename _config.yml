@@ -37,7 +37,7 @@ conference:
   proceedings:
     url: http://proceedings.mlr.press/v51/
     show: true
-  room: Room
+  room: 
   venue: Parador Hotel
   venue_url: https://www.parador.es/en/paradores/parador-de-cadiz
   location: Cadiz, Spain
