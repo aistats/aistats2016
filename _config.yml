@@ -1,7 +1,6 @@
 
 # Site settings
 title: Artificial Intelligence and Statistics Conference
-email: 
 description: > # this means to ignore newlines until "baseurl:"
   This is the website of the AISTATS conference.
 baseurl: "/aistats2016" # the subpath of your site, e.g. /blog/
@@ -11,6 +10,7 @@ github_username:  aistats
 
 author:
   name: AISTATS
+  email:
 comments: false
 plugins:
 - jekyll-feed
@@ -22,8 +22,9 @@ style: aistats
 ghub:
   edit: true
   repository: aistats2016
+  
 banner: resort.jpg
-
+banner_title: AI & Statistics 2016
 # Build settings
 markdown: kramdown
 
