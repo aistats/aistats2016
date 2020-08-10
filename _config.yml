@@ -24,7 +24,7 @@ ghub:
   repository: aistats2016
   
 banner: resort.jpg
-banner_title: AI & Statistics 2016
+
 # Build settings
 markdown: kramdown
 
