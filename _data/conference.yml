@@ -1,0 +1,72 @@
+draft: false # set to True if the programme is draft only.
+image: Old-City-Cadiz.jpg
+hide_tentative: true
+proceedings:
+  url: http://proceedings.mlr.press/v51/
+  show: true
+room: 
+venue: Parador Hotel
+venue_url: https://www.parador.es/en/paradores/parador-de-cadiz
+location: Cadiz, Spain
+full_name: Artificial Intelligence and Statistics
+short_name: AISTATS
+name: Artificial Intelligence and Statistics
+year: 2016
+instance: 18th
+styling: International Conference on
+dates:
+- 2016-05-09
+- 2016-05-10
+- 2016-05-11
+chairs:
+- type: Programme Chairs
+  people:
+  - family: Gretton
+    given: Arthur
+    institute: Gatsby Computational Neuroscience Unit, University College London
+    url: http://www.gatsby.ucl.ac.uk/~gretton/
+  - family: Robert
+    given: Christian
+    institute: Ceremade - Université Paris-Dauphine
+    url: https://www.ceremade.dauphine.fr/~xian/
+- type: General Chair
+  people:
+  - family: Pérez Cruz
+    given: Fernandon
+    institute: Universidad Carlos III de Madrid and Bell Labs (Alcatel-Lucent)
+    url: http://www.tsc.uc3m.es/~fernando/</i> </li>
+- type: Workflow Chair
+  people:
+  - family: Jenatton
+    given: Rodolphe
+    url: http://rodolphejenatton.com/
+    institute: Amazon
+  - family: Szabo
+    given: Zoltan
+    url: http://www.gatsby.ucl.ac.uk/~szabo/
+    institute: Gatsby Computational Neuroscience Unit, University College London
+- type: Publicity Chair
+  people:
+  - family: Jitkrittum
+    given: Wittawat
+    url: http://wittawat.com
+    institute: Gatsby Computational Neuroscience Unit, University College London
+- type: Publication Chair
+  people:
+  - family: Alquier
+    given: Pierre
+    url: http://alquier.ensae.net/
+    institute: Ecole Nationale de la Statistique et de l\'Administration Economique
+- type: Fundraising Chair
+  people:
+  - family: Yue
+    given: Yisong
+    url: http://www.yisongyue.com
+    institute: California Institute of Technology
+- type: Local Chair
+  people:
+  - family: Murillo-Fuentes
+    given: Juan Jose
+    url: http://personal.us.es/murillo/
+    institute: University of Seville
+    
